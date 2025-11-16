@@ -43,4 +43,4 @@ This project analyses the Superstore Dataset using Microsoft Excel to uncover Ke
 
 
 
-
+<img width="460" height="324" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/262815a2-1215-4b46-8e47-2e7437781167" />
