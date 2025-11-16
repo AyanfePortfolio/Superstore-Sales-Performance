@@ -11,6 +11,7 @@ This project analyses the Superstore Dataset using Microsoft Excel to uncover Ke
   - Evaluate shipping methods to  detect operational inefficiencies
   - Provide clear, data-backed insights to support pricing, product and regional strategy decisions.
 
+
 ## 🔄 Analysis Workflow 
 1. Data Preparation: The dataset was already clean, properly structured, and ready for analysis.
 
@@ -35,8 +36,8 @@ This project analyses the Superstore Dataset using Microsoft Excel to uncover Ke
 
 4. Dashboard Interactivity
    To enhance insight generation, the dashboard includes:
-   - Year Slicer
-   - Ship Mode Slicer
+- Year Slicer
+- Ship Mode Slicer
    
    *These slicers update all KPI visuals simultaneously for dynamic filtering.*
 
