@@ -50,4 +50,3 @@ This project analyses the Superstore Dataset using Microsoft Excel to uncover Ke
 -  In the Category by Sales and Profit analysis, Technology ($836K sales, $145K profit) leads in revenue but requires tighter margin control, Office Supplies ($719K sales, $122K profit) shows strong and reliable profit performance, and Furniture ($742K sales, $18K profit) delivers high sales but critically low profitability, demanding urgent review of shipping and discount strategies.
 
 <img width="3047" height="2129" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/c4241bd4-cacd-4b27-9edf-aab795a040d3" />
-
