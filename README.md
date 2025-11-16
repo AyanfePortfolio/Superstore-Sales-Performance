@@ -42,5 +42,5 @@ This project analyses the Superstore Dataset using Microsoft Excel to uncover Ke
    *These slicers update all KPI visuals simultaneously for dynamic filtering.*
 
 
+<img width="3047" height="2129" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/c4241bd4-cacd-4b27-9edf-aab795a040d3" />
 
-<img width="460" height="324" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/262815a2-1215-4b46-8e47-2e7437781167" />
